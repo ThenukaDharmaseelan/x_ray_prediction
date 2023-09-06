@@ -7,7 +7,6 @@ from config import PROJECT_BACKGROUND, PROJECT_GOALS, PROJECT_PROBLEM
 # Set Streamlit page configuration
 st.set_page_config(
     page_title="Omdena Myanmar",
-    page_icon="🇲🇲",
     initial_sidebar_state="expanded"
 )
 
